@@ -9,6 +9,7 @@ import android.widget.Button
 import androidx.navigation.fragment.findNavController
 import com.example.kotlin_sample_navigation.databinding.FragmentFirstBinding
 
+// テストテストテスト
 class FirstFragment : Fragment() {
     private var _binding : FragmentFirstBinding? = null
     private val binding get() = _binding!!
